@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsStrukCetak" value="name:id_parkir;datatype:string,name:no_polisi;datatype:string,name:jenis_kendaraan;datatype:string,name:masuk;datatype:datetime,name:keluar;datatype:datetime,name:durasi;datatype:string,name:status;datatype:string" />
+</info>

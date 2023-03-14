@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsJenisUpdate" value="name:id_jenis_kendaraan;datatype:string,name:jenis_kendaraan;datatype:string" />
+</info>
