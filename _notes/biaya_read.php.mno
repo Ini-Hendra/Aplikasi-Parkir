@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rsBiayaRead" value="name:id_biaya;datatype:string,name:jenis_kendaraan;datatype:string,name:biaya_perjam;datatype:int,name:biaya_maksimal;datatype:int" />
-</info>
